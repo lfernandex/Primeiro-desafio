@@ -1,2 +1,2 @@
 # Desafio
-MPrimeiro desafio a só sobre Git/GitHub
+Primeiro desafio a só sobre Git/GitHub
